@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for i in {1..2000};do
+  spinner=" \\ =  -  = / |"
+  for spin in ${spinner};do
+    echo -n "$spin                                                                     " && sleep .1 && echo -ne "$pc\033[0K\r"
+  done
+done
