@@ -29,6 +29,8 @@ or
 $ spinner
 ```
 
+[![asciicast](https://asciinema.org/a/43YBwJHrEBkeM1ZWDJUZZviNs.svg)](https://asciinema.org/a/43YBwJHrEBkeM1ZWDJUZZviNs)
+
 ## Contributing
 
 Feel free to drop a PR!
